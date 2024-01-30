@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Şevval</h1>
-- 🌱 I’m currently learning Java, Spring and .Net
+- 🌱 I’m currently learning Java and Spring 
 
 - 📫 How to reach me **yilmaz.sevvall99@gmail.com**
 
