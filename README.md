@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning **Java and Angular**
 - 📫 How to reach me **yilmaz.sevvall99@gmail.com**
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=800>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=500>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yilmazsevval&show_icons=true&locale=en&layout=compact" alt="yilmazsevval" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yilmazsevval&show_icons=true&locale=en" alt="yilmazsevval" /></p>
+
+</div>
