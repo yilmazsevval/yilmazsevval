@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java and Angular**
 - 📫 How to reach me **yilmaz.sevvall99@gmail.com**
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1000>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=800>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
