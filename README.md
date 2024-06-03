@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Şevval</h1>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<h3 align="center">Full Stack Developer Student</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5730&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+%C5%9Eevval+;Full-Stack+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **Java and Angular**
 
