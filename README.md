@@ -5,10 +5,10 @@
 <p>🌱 I’m currently learning <strong>Java and Angular</strong></p> 
 <p>📫 How to reach me: <a href="mailto:yilmaz.sevvall99@gmail.com">yilmaz.sevvall99@gmail.com</a></p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=700>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1000>
 
 <div align="center">
-  <h3>Connect with me:</h3>
+  <h3> <strong>Connect with me: </strong></h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yilmaz-sevval/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yilmaz-sevval/" height="30" width="40" /></a>
 </div>
 
