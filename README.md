@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <div align="center">
-  <h3 align="left">Connect with me:</h3>
+  <h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yilmaz-sevval/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yilmaz-sevval/" height="30" width="40" /></a>
 </div>
 
