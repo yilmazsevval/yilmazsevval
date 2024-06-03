@@ -1,11 +1,11 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8932&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+%C5%9Eevval+;Full-Stack+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF8932&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+%C5%9Eevval+;Full-Stack+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
 - 🌱 I’m currently learning **Java and Angular**
 - 📫 How to reach me **yilmaz.sevvall99@gmail.com**
 - 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 
 <h3 align="left">Connect with me:</h3>
